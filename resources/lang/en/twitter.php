@@ -8,6 +8,5 @@ return [
     'followers_retweeters' => 'Retweeted By Followers',
     'cached' => 'These are cached results from last two hours.',
     'url_placeholder' => 'Enter a tweet URL',
-    'url_placeholder' => 'Enter a tweet URL',
     'submit' => 'Submit',
 ];

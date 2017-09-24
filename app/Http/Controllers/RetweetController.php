@@ -55,6 +55,7 @@ class RetweetController extends Controller
                 $retweeters = $this->connection->get("statuses/retweeters/ids", [
                     'id' => $id
                 ]);
+
                 $total_retweeters = count($retweeters->ids);
             }
 
